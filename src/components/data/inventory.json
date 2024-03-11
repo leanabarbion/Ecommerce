@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Watch",
+    "price": 75.00,
+    "image": "https://www.watchnation.com/wp-content/uploads/2017/10/62487371.jpg",
+    "category": "Accessories",
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "price": 120.00,
+    "image": "https://image.sportsmansguide.com/adimgs/l/5/591302_ts.jpg",
+    "category": "Footwear",
+    "quantity": 15
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Headphones",
+    "price": 89.99,
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/Beats_900_00009_01_Wireless_Headphones_Black_882187.jpg",
+    "category": "Electronics",
+    "quantity": 20
+  },
+  {
+    "id": 4,
+    "name": "Organic Green Tea",
+    "price": 15.50,
+    "image": "https://veganco.com.au/wp-content/uploads/2020/05/af-green-tea.jpg",
+    "category": "Groceries",
+    "quantity": 30
+  },
+  {
+    "id": 5,
+    "name": "Graphic T-Shirt",
+    "price": 25.00,
+    "image": "https://i.pinimg.com/originals/95/a3/83/95a383b2c0297eff715ed9186a1a9705.jpg",
+    "category": "Clothing",
+    "quantity": 25
+  },
+  {
+    "id": 6,
+    "name": "Leather Wallet",
+    "price": 45.00,
+    "image": "https://guysworld.in/wp-content/uploads/2019/03/918JAeC4sIL._SL1500_.jpg",
+    "category": "Accessories",
+    "quantity": 12
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "price": 30.00,
+    "image": "https://i1.wp.com/findgoodhealth.org/wp-content/uploads/2017/09/yoga-mat-sample-all.png?fit=1000,1000&ssl=1",
+    "category": "Fitness",
+    "quantity": 18
+  },
+  {
+    "id": 8,
+    "name": "Water Bottle",
+    "price": 20.00,
+    "image": "https://i5.walmartimages.com/asr/a066bec8-d704-4dd1-9132-e184a6a73c1e_1.4aa118bafcd08386cf281baecd9ac5db.jpeg",
+    "category": "Fitness",
+    "quantity": 22
+  },
+  {
+    "id": 9,
+    "name": "Smartphone Case",
+    "price": 19.99,
+    "image": "https://i5.walmartimages.com/asr/006d310b-76f0-4d09-9dff-b773dcee342b_1.27d766adf5eb26a95ce3414b82d1b720.jpeg",
+    "category": "Electronics",
+    "quantity": 40
+  },
+  {
+    "id": 10,
+    "name": "Sunglasses",
+    "price": 50.00,
+    "image": "https://i5.walmartimages.com/asr/8f05c177-5568-4faf-9cdc-0a8051be4228_1.6808c55da7724c79b49f3a8c589f8dd0.jpeg",
+    "category": "Accessories",
+    "quantity": 16
+  },
+  {
+    "id": 11,
+    "name": "Backpack",
+    "price": 60.00,
+    "image": "https://contents.mediadecathlon.com/p1723866/2000x2000/sq/mens_trekking_travel_backpack_50_litres_travel_500_-_grey_forclaz_8383140_1723866.jpg?k=64acd84499bcb577fba9e29f34983086",
+    "category": "Accessories",
+    "quantity": 10
+  },
+  {
+    "id": 12,
+    "name": "Novelty Mug",
+    "price": 12.99,
+    "image": "https://www.sharedearth.co.uk/Files/126645/Img/14/KCMU201-zoom.jpg",
+    "category": "Home & Kitchen",
+    "quantity": 30
+  },
+  {
+    "id": 13,
+    "name": "Desk Lamp",
+    "price": 39.95,
+    "image": "https://i5.walmartimages.com/asr/f1d627cc-2535-4930-9754-cf3c97908124_1.e8ef67775856aece0221b4db1de96648.jpeg",
+    "category": "Furniture",
+    "quantity": 15
+  },
+  {
+    "id": 14,
+    "name": "Stainless Steel Cookware Set",
+    "price": 200.00,
+    "image": "https://images.homedepot-static.com/productImages/0ab62ee5-bcf6-4116-a04b-76cbfea30d74/svn/stainless-steel-mirror-polished-tramontina-cookware-sets-80116-248ds-64_1000.jpg",
+    "category": "Home & Kitchen",
+    "quantity": 8
+  },
+  {
+    "id": 15,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/logitech_910_002727_wirless_mini_mouse_m187_1413245.jpg",
+    "category": "Electronics",
+    "quantity": 25
+  },
+  {
+    "id": 16,
+    "name": "Cotton Bath Towels",
+    "price": 35.00,
+    "image": "https://i5.walmartimages.com/asr/4b80f362-71dd-4830-b5f9-656efb7ede4d_1.85963b5892c79b0d034dcaa00e7c3adf.jpeg",
+    "category": "Home & Kitchen",
+    "quantity": 20
+  },
+  {
+    "id": 17,
+    "name": "Action Camera",
+    "price": 120.00,
+    "image": "https://bpc.h-cdn.co/assets/17/13/1490808547-olympus-action-camera.jpg",
+    "category": "Electronics",
+    "quantity": 14
+  },
+  {
+    "id": 18,
+    "name": "Outdoor Camping Tent",
+    "price": 99.00,
+    "image": "https://i5.walmartimages.com/asr/7f33239c-57fb-431f-9355-e59182d6b8b0_1.6e90f970e6cd3235d8527d53d4b2fd00.jpeg",
+    "category": "Outdoor",
+    "quantity": 10
+  },
+  {
+    "id": 19,
+    "name": "Board Games Collection",
+    "price": 60.00,
+    "image": "https://www.ambassadorgames.com/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/s/t/st020.jpg",
+    "category": "Toys & Games",
+    "quantity": 13
+  },
+  {
+    "id": 20,
+    "name": "E-Reader",
+    "price": 130.00,
+    "image": "https://wpcluster.dctdigital.com/pressandjournal/wp-content/uploads/sites/2/2017/02/yl-0402gaj5.jpg",
+    "category": "Electronics",
+    "quantity": 3
+  }
+]
