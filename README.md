@@ -1,4 +1,4 @@
-E-Commerce Application
+E-Commerce Application: https://ecommerce-mcsbt-g1.storage.googleapis.com/index.html
 
 This project is a simple online marketplace done with React.
 
